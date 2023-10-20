@@ -1,4 +1,4 @@
-# money_manager
+# Contact App
 
 A new Flutter project.
 
